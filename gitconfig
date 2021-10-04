@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = antoine.brique@gmail.com
+	name = Antoine Brique
